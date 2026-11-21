@@ -15,7 +15,7 @@ A new Flutter project.
 [![Dart](https://img.shields.io/badge/Dart-3.7+-0175C2?style=flat-square&logo=dart&logoColor=white)](https://dart.dev/)
 [![Provider](https://img.shields.io/badge/State-Provider-7952B3?style=flat-square)](https://pub.dev/packages/provider)
 [![Dio](https://img.shields.io/badge/HTTP-Dio-008ECC?style=flat-square)](https://pub.dev/packages/dio)
-[![License](https://img.shields.io/badge/License-check%20repository-lightgrey?style=flat-square)](LICENSE)
+
 
 <br/>
 
@@ -217,9 +217,6 @@ phen_for_masters/
 - [phen_](https://github.com/kutsyfugaputik/phen_) — клиентское мобильное приложение салона «Под феном».
 - [rabenda_dezaina](https://github.com/kutsyfugaputik/rabenda_dezaina) — серверная часть и компоненты системы салона.
 
-## ✦ Лицензия
-
-Информация о лицензии не была подтверждена по доступным файлам репозитория. Перед публикацией README рекомендуется добавить файл `LICENSE` и указать выбранные условия распространения проекта.
 
 ---
 
