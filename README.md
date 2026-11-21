@@ -201,7 +201,8 @@ phen_for_masters/
 ├── pubspec.yaml                 # Зависимости и ресурсы Flutter
 ├── pubspec.lock                 # Зафиксированные версии зависимостей
 ├── analysis_options.yaml        # Настройки статического анализа
-└── README.md
+├── README.md
+└── LICENSE                         # Лицензия MIT
 ```
 
 ## 📚 Полезные ссылки
